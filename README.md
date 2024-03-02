@@ -15,8 +15,7 @@
   * Action button - to show only top 5 products(by sales) data belonging to certain filter(eg, Sales Agent)
   * Created sales breakdown structure based on the selected Sales Agent to show summary of sales done by that Agent showing sales last year, sales this year and growth percentage.
 
- ## 2. HR_Analytics_Dashboard([link](https://app.powerbi.com/view?r=eyJrIjoiNzU5MjM2NTgtNTJiYy00ZGNhLWJjN2EtZjNmZTg1YzM4ZTYxIiwidCI6IjE3ZjFhODdlLTJhMjUtNGVhYS1iOWRmLTlkNDM5MDM0YjA4MCIsImMiOjF9
-))
- ## 3. Customer_Analysis_Dashboard([link](https://app.powerbi.com/groups/me/reports/7a18240a-f8f1-44fd-b6e7-dc634a30bcdc/ReportSection?experience=power-bi))
+ ## 2. HR_Analytics_Dashboard([link](https://app.powerbi.com/view?r=eyJrIjoiNzU5MjM2NTgtNTJiYy00ZGNhLWJjN2EtZjNmZTg1YzM4ZTYxIiwidCI6IjE3ZjFhODdlLTJhMjUtNGVhYS1iOWRmLTlkNDM5MDM0YjA4MCIsImMiOjF9))
+ ## 3. Customer_Analysis_Dashboard([link](https://app.powerbi.com/view?r=eyJrIjoiMjUwNGU5MTUtNGRjOC00ZDk2LWIzNDItZDkwNjJlZTU4MGE0IiwidCI6IjE3ZjFhODdlLTJhMjUtNGVhYS1iOWRmLTlkNDM5MDM0YjA4MCIsImMiOjF9))
 
     
