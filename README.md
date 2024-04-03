@@ -18,6 +18,8 @@
  ## 2. HR_Analytics_Dashboard([link](https://app.powerbi.com/view?r=eyJrIjoiNzU5MjM2NTgtNTJiYy00ZGNhLWJjN2EtZjNmZTg1YzM4ZTYxIiwidCI6IjE3ZjFhODdlLTJhMjUtNGVhYS1iOWRmLTlkNDM5MDM0YjA4MCIsImMiOjF9))
  ## 3. Customer_Analysis_Dashboard([link](https://app.powerbi.com/view?r=eyJrIjoiMjUwNGU5MTUtNGRjOC00ZDk2LWIzNDItZDkwNjJlZTU4MGE0IiwidCI6IjE3ZjFhODdlLTJhMjUtNGVhYS1iOWRmLTlkNDM5MDM0YjA4MCIsImMiOjF9))
  ## 4. Inventory_Management(Supply Chain)_Dashboard([link](https://app.powerbi.com/reportEmbed?reportId=ae27445f-1e72-43e6-84fa-078014df26e2&autoAuth=true&ctid=17f1a87e-2a25-4eaa-b9df-9d439034b080))
+ ## 5. Stock Analysis Dashboard([link](https://public.tableau.com/app/profile/sowmya.pallempati/viz/StockAnalysis_17101939763230/Dashboard1))
+ 
 
     
 
