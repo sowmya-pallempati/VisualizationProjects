@@ -29,7 +29,19 @@ The HR_Analytics dashboard provides a comprehensive analysis of PwC's workforce,
 The dashboard features interactive dropdowns that allow users to filter the data by **department**, **job level**, **age group**, and **region group**, enabling a detailed and customizable view of the workforce's diversity and inclusion metrics.
 
 
- ## 3. Customer_Analysis_Dashboard([link](https://app.powerbi.com/view?r=eyJrIjoiMjUwNGU5MTUtNGRjOC00ZDk2LWIzNDItZDkwNjJlZTU4MGE0IiwidCI6IjE3ZjFhODdlLTJhMjUtNGVhYS1iOWRmLTlkNDM5MDM0YjA4MCIsImMiOjF9))
+ ## ([3. Customer_Analysis_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjUwNGU5MTUtNGRjOC00ZDk2LWIzNDItZDkwNjJlZTU4MGE0IiwidCI6IjE3ZjFhODdlLTJhMjUtNGVhYS1iOWRmLTlkNDM5MDM0YjA4MCIsImMiOjF9)
+### Overview
+The Customer Analysis by Sales dashboard provides an in-depth look into sales performance across various dimensions, helping to identify trends and patterns that drive profitability. The dashboard includes the following key performance indicators (KPIs):
+
+* **Sum of Profit by Gender:** Analyzes the total profit generated from male and female customers.
+* **Sum of Profit by Brand:** Breaks down profit by different bicycle brands, including WeareA2B, Solex, Trek Bicycles, Giant Bicycles, OHM Bicycles, and Norco Bicycles.
+* **Sum of Profit by Job Industry Category:** Displays profit segmented by various job industries such as manufacturing, financial, health, IT, property, telecommunications, entertainment, agriculture, and retail.
+* **Profit vs. Month of Transaction:** Shows the sum of profit by month, highlighting seasonal trends in sales.
+* **Sum of Profit by State:** Provides a geographic breakdown of profit, covering states like NSW, VIC, QLD, New South Dakota, and Victoria.
+* **Sum of Profit by Product Line:** Analyzes profit by different product lines, including standard, road, touring, and mountain bikes.
+
+This dashboard allows users to explore sales data interactively, providing valuable insights for strategic decision-making in marketing and sales optimization.
+
  ## 4. Inventory_Management(Supply Chain)_Dashboard([link](https://app.powerbi.com/reportEmbed?reportId=ae27445f-1e72-43e6-84fa-078014df26e2&autoAuth=true&ctid=17f1a87e-2a25-4eaa-b9df-9d439034b080))
  ## 5. Stock Analysis Dashboard([link](https://public.tableau.com/app/profile/sowmya.pallempati/viz/StockAnalysis_17101939763230/Dashboard1))
  
