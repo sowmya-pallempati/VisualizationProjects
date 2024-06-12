@@ -44,11 +44,11 @@ This dashboard allows users to explore sales data interactively, providing valua
 
  ## [4. Inventory_Management(Supply_Chain)_Dashboard](https://app.powerbi.com/reportEmbed?reportId=ae27445f-1e72-43e6-84fa-078014df26e2&autoAuth=true&ctid=17f1a87e-2a25-4eaa-b9df-9d439034b080)
 ### Overview
-This Inventory Management dashboard provides comprehensive insights into stock levels and key inventory metrics to optimize supply chain operations. The dashboard includes the following features:
+This Inventory Management dashboard provides comprehensive insights into stock levels and key inventory metrics to optimize supply chain operations. The dashboard includes the following features:  
 
-**Data Modeling:** Implemented advanced data modeling techniques in Power Pivot, defining relationships and creating over 10 measures and columns using DAX to enhance data analysis and reporting capabilities.
-**Comprehensive Analysis:** Analyzed over 9,000 records to track stock levels and key metrics related to inventory value and total units.
-**Enhanced Reporting:** Generated detailed reports and interactive dashboards in Power BI to provide a clear view of inventory status and trends.
+**Data Modeling:** Implemented advanced data modeling techniques in Power Pivot, defining relationships and creating over 10 measures and columns using DAX to enhance data analysis and reporting capabilities.  
+**Comprehensive Analysis:** Analyzed over 9,000 records to track stock levels and key metrics related to inventory value and total units.  
+**Enhanced Reporting:** Generated detailed reports and interactive dashboards in Power BI to provide a clear view of inventory status and trends.  
 
 This dashboard enables effective monitoring and management of inventory, helping to ensure optimal stock levels, reduce costs, and improve supply chain efficiency.
  
